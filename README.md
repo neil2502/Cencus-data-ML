@@ -4,7 +4,8 @@ Machine learning project for income classification and customer segmentation usi
 
 ## Project Structure
 
-
+```
+.
 ├── codes/
 │   ├── classification.ipynb      # Income classification notebook
 │   └── segmentation.ipynb        # Customer segmentation notebook
@@ -18,6 +19,7 @@ Machine learning project for income classification and customer segmentation usi
 ├── Report.pdf                    # Final report
 ├── requirements.txt              # Python dependencies
 └── README.md                     # This file
+```
 
 
 
