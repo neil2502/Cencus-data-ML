@@ -94,6 +94,5 @@ predictions = pipeline.predict(new_data)
 
 ## Notes
 
-- Both notebooks should be run in the order provided (classification first, then segmentation)
 - Ensure all input data files are present before running notebooks
 - The clustering pipeline can be reused for predictions on new data
