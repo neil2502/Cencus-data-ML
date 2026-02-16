@@ -1,4 +1,4 @@
-# ML Takehome Project
+# Cencus Data ML Project
 
 Machine learning project for income classification and customer segmentation using Census Bureau data.
 
