@@ -4,19 +4,22 @@ Machine learning project for income classification and customer segmentation usi
 
 ## Project Structure
 
-```
-.
-├── classification.ipynb          # Income classification notebook
-├── segmentation.ipynb            # Customer segmentation notebook
-├── census-bureau.data            # Dataset (comma-separated)
-├── census-bureau.columns         # Column headers
-├── clustering_pipeline.pkl       # Saved clustering model
-├── census_segmented.csv          # Segmented output file
-├── requirements.txt              # Python dependencies
+
+├── codes/
+│   ├── classification.ipynb      # Income classification notebook
+│   └── segmentation.ipynb        # Customer segmentation notebook
+├── input data/
+│   ├── census-bureau.data        # Dataset (comma-separated)
+│   └── census-bureau.columns     # Column headers
+├── output files/
+│   ├── clustering_pipeline.pkl   # Saved clustering model
+│   └── census_segmented.csv      # Segmented output file
 ├── ML-TakehomeProject.pdf        # Assignment instructions
-├── Report.docx.pdf               # Final report
+├── Report.pdf                    # Final report
+├── requirements.txt              # Python dependencies
 └── README.md                     # This file
-```
+
+
 
 ## Environment Setup
 
